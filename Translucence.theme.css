@@ -8,7 +8,8 @@
  * @source https://raw.githubusercontent.com/Zero-Ideas/themes/refs/heads/main/custom_translucence_src.css
  */
 
-@import url(https://raw.githubusercontent.com/Zero-Ideas/themes/refs/heads/main/custom_translucence_src.css);
+@import url("https://raw.githubusercontent.com/Zero-Ideas/themes/main/custom_translucence_src.css");
+
 
 :root {
 	/* APP ELEMENTS */
