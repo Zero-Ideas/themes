@@ -6575,13 +6575,13 @@ body,
 /*# sourceMappingURL=main.css.map */
 /*
 meteor shower https://img.freepik.com/premium-photo/meteor-shower-wallpaper_1134901-203177.jpg
-angela https://static.wikia.nocookie.net/library-of-ruina/images/3/3f/Canard_intro.png/revision/latest?cb=20220307002225
+angela https://raw.githubusercontent.com/Zero-Ideas/themes/refs/heads/main/Canard_intro.webp
 
 
 */
 :root {
 	/* APP ELEMENTS */
-	--app-bg: url(https://static.wikia.nocookie.net/library-of-ruina/images/3/3f/Canard_intro.png/revision/latest?cb=20220307002225);
+	--app-bg: url(https://raw.githubusercontent.com/Zero-Ideas/themes/refs/heads/main/Canard_intro.webp);
 	--app-blur: 5px;
 	--app-margin: 0px;
 	--app-radius: 8px;
